@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CadenceCoach</string>
+    <string name="title_home">Home</string>
+    <string name="title_ride">Ride</string>
+    <string name="title_ride_history">Ride History</string>
+    <string name="ride_speed">Speed: %.1f mph</string>
+    <string name="ride_cadence">Cadence: %d mph</string>
+    <string name="ride_time">Time: %s</string>
+    <string name="ride_start">Start Ride</string>
+    <string name="ride_stop">Stop Ride</string>
+    <string name="front_gear">Front: %d</string>
+    <string name="front_plus">+</string>
+    <string name="front_minues">-</string>
+    <string name="rear_gear">Rear : %d</string>
+    <string name="rear_plus">+</string>
+    <string name="rear_minus">-</string>
+    <string name="ride_avg_speed">Average Speed: %.1f mph</string>
+    <string name="ride_avg_cadence">Average Cadence: %.1f rpm</string>
+    <string name="ride_duration">Ride Duration: %s</string>
+
+</resources>
